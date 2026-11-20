@@ -1,0 +1,14 @@
+C:\Users\Lenovo\RPGInventory\bin\Debug\net9.0\RPGInventory.exe
+C:\Users\Lenovo\RPGInventory\bin\Debug\net9.0\RPGInventory.deps.json
+C:\Users\Lenovo\RPGInventory\bin\Debug\net9.0\RPGInventory.runtimeconfig.json
+C:\Users\Lenovo\RPGInventory\bin\Debug\net9.0\RPGInventory.dll
+C:\Users\Lenovo\RPGInventory\bin\Debug\net9.0\RPGInventory.pdb
+C:\Users\Lenovo\RPGInventory\obj\Debug\net9.0\RPGInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\RPGInventory\obj\Debug\net9.0\RPGInventory.AssemblyInfoInputs.cache
+C:\Users\Lenovo\RPGInventory\obj\Debug\net9.0\RPGInventory.AssemblyInfo.cs
+C:\Users\Lenovo\RPGInventory\obj\Debug\net9.0\RPGInventory.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RPGInventory\obj\Debug\net9.0\RPGInventory.dll
+C:\Users\Lenovo\RPGInventory\obj\Debug\net9.0\refint\RPGInventory.dll
+C:\Users\Lenovo\RPGInventory\obj\Debug\net9.0\RPGInventory.pdb
+C:\Users\Lenovo\RPGInventory\obj\Debug\net9.0\RPGInventory.genruntimeconfig.cache
+C:\Users\Lenovo\RPGInventory\obj\Debug\net9.0\ref\RPGInventory.dll
